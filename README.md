@@ -35,3 +35,7 @@ Visual Studio seems to be able to show packages hosted from this server, but it 
 #### /bin/bash
 
 I hope to add a `curl`-friendly REST API in the future.
+
+### The code sucks.
+
+Written over the course of a 16-hour rage-filled hackathon.  I'll clean it up later.
