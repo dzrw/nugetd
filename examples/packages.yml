@@ -1,0 +1,23 @@
+---
+packages:
+- id: "https://www.example.com/api/v2/Packages(Id='Newtonsoft.Json',Version='8.0.2')"
+  title: "Newtonsoft.Json"
+  summary: ""
+  authorName: "James Newton-King"
+  #downloadUrl: "https://www.nuget.org/api/v2/package/Newtonsoft.Json/8.0.2"
+  downloadUrl: "http://172.16.55.1:8080/packages/Newtonsoft.Json/Newtonsoft.Json-8.0.2.zip"
+  version: "8.0.2"
+  copyright: "Copyright 2016"
+  description: "The only decent JSON parser for .NET"
+  galleryDetailsUrl: "https://www.example.com/packages/Newtonsoft.Json/8.0.2"
+  iconUrl: "http://www.newtonsoft.com/content/images/nugeticon.png"
+  isLatestVersion: true
+  isAbsoluteLatestVersion: false
+  isPrerelease: false
+  language: "en-US"
+  tags: "json"
+  packageTitle: "Json.NET"
+  minClientVersion: ""
+  dependencies:
+  #- foo
+  #- bar
